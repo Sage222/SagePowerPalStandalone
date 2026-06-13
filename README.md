@@ -1,6 +1,8 @@
 # SagePowerPalStandalone
 Powerpal python script which locally connects via bluetooth and outputs the results in terminal
 
+Check my repositories for one that will work natively within HomeAssistant. Coming soon.
+
 
 
 Powerpal BLE Standalone — Quick Reference
